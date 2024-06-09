@@ -1,7 +1,7 @@
 
 Hi, I’m Yahya (Yaḥyā). I develop modern machine-learning based techniques to solve complex computational problems in natural sciences.
 
-## 🚀 Skills
+## Skills
 - **Languages:** Python, Julia, Tex.
 - **Machine learning libraries:** Jax, pytorch, tensorflow.
 
