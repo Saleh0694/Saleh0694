@@ -1,6 +1,11 @@
 
 Hi, I’m Yahya (Yaḥyā). I develop modern machine-learning based techniques to solve complex computational problems in natural sciences.
 
+## 🚀 Skills
+- **Languages:** Python, Julia, Tex
+- **Machine learning libraries:** Jax
+
+
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahyasaleh/)
 
