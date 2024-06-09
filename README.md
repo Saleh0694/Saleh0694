@@ -1,6 +1,9 @@
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saleh0694&layout=compact&theme=default)
+
 ![GitHub Stars](https://img.shields.io/github/stars/Saleh0694?affiliations=OWNER%2CCOLLABORATOR)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saleh0694&layout=compact&theme=default)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Saleh0694&theme=default)
+
 
 Hi, I’m @Saleh0694. I'm currently interesed in the use of neural networks to solve differential equations in general and eigenvalue problems in particular. My main applciation domain is quantum mechanics. 
 
