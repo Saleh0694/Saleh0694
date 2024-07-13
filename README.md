@@ -1,10 +1,13 @@
 
 Hi, I’m Yahya (Yaḥyā). I develop modern machine-learning based techniques to solve complex computational problems in natural sciences.
-Check out one of my projects on [GitHub](https://github.com/CFEL-CMI/Active-Learning-of-PES).
+
 ## Skills
 - **Languages:** Python, Julia, Tex.
 - **Machine learning libraries:** Jax, pytorch, tensorflow.
 
+## Project Highlights 
+- Active learning for constructing potential energy surfaces [AL](https://github.com/CFEL-CMI/Active-Learning-of-PES).
+- Spectral learninig for solving differential equations [AL](https://github.com/CFEL-CMI/FlowBasis).
 
 ## Websites/contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahyasaleh/)
