@@ -2,6 +2,8 @@
 
 I develop modern machine-learning-based techniques to solve complex computational problems in natural sciences.
 
+I am currently a research and teaching assistant at Universität Hamburg, department of mathematics and the group of Controlled Molecule Imaging (CMI) at the Center for Free-Electron Laser Science CFEL, Deutsches Elektronen-Synchrotron DESY.
+
 ---
 
 ## Skills
