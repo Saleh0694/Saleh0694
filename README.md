@@ -21,7 +21,7 @@ I am currently a research and teaching assistant at Universität Hamburg, depart
 ## Publications
 **Publications in chronological order:**  
 - **V. Menden, Y. Saleh, A. Iske**, Bounds on the Generalization Error in Active Learning, [arXiv:2409.09078 (2024)](https://arxiv.org/abs/2409.09078) [stat.ML, cs.LG].  
-- **Y. Saleh, A. Iske**, Inducing Riesz and Orthonormal Bases in \( L^2 \) *via* Composition Operators, [arXiv:2406.18613 (2024)](https://arxiv.org/abs/2406.18613) [math.FA, math.NA, cs.LG].  
+- **Y. Saleh, A. Iske**, Inducing Riesz and Orthonormal Bases in $L^2$ *via* Composition Operators, [arXiv:2406.18613 (2024)](https://arxiv.org/abs/2406.18613) [math.FA, math.NA, cs.LG].  
 - **T. Wenzel, Y. Saleh, A. Iske**, Two-Layered and Deep Kernels as Data-Adapted Kernels, [DEEPK 2024 International Workshop on Deep Learning and Kernel Machines](https://www.esat.kuleuven.be/stadius/E/DEEPK2024/7_two_layered_and_deep_kernels_a.pdf).  
 - **Y. Saleh, A.F. Corral, A. Iske, J. Küpper, A. Yachmenev**, Computing Excited States of Molecules using Normalizing Flows, [arXiv:2308.16468 (2023)](https://arxiv.org/abs/2308.16468) [cs.LG, phys.chem-phys].  
 - **Y. Saleh**, Spectral and Active Learning for Efficient and Computationally Scalable Quantum Molecular Dynamics, Dissertation, Universität Hamburg (2023).  
