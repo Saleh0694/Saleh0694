@@ -33,6 +33,9 @@ I am currently a research and teaching assistant at Universität Hamburg, depart
 
 ## Contributions to International Conferences and Workshops
 **In chronological order:**  
+- Normalizing flows: from learning probability distributions to basis-set discovery, Linköping University, Linköping, Sweden (invited talk, 2025).
+- Learning basis sets using unitary and bounded bijective operators, international conference in numerical mathematics and scientific computing (Uppsala, Sweden, contributed talk, 2025).
+- Bounds on the generalization error in active learning, the 6th northern lights deep learning conference (Tromso, Norway, poster, 2025).
 - Computing Excited States of Molecules using Normalizing Flows, High-Dimensional Quantum Dynamics Conference, Hamburg, Germany (poster, 2024).  
 - Spectral Learning for Solving Molecular Schrödinger Equations, [PINN-PAD: Physics Informed Neural Networks in PADova](https://pinn-pad.dicea.unipd.it/), Padova, Italy (contributed talk, 2024).  
 - Augmenting Spectral Methods with Invertible Neural Networks and Application to Quantum Molecular Physics, [ALGORITMY conference](https://www.math.sk/alg2024/), Podbanské, High Tatra Mountains, Slovakia (contributed talk, 2024).  
