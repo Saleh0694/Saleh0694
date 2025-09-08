@@ -20,10 +20,11 @@ I am currently a research and teaching assistant at Universität Hamburg, depart
 
 ## Publications
 **Publications in chronological order:**  
+- A. Yachmenev, E. Vogt, A. F. Corral, Y. Saleh, Taylor-mode automatic differentiation for constructing molecular rovibrational Hamiltonian operators _J. Chem. Phys._ **163(7)**.
+- Y. Saleh, A.F. Corral, A. Iske, J. Küpper, A. Yachmenev, Computing Excited States of Molecules using Normalizing Flows, _J. Chem. Theory Comput._ **(21)10**, 5221-5229.
 - V. Menden, Y. Saleh, A. Iske, Bounds on the Generalization Error in Active Learning, [arXiv:2409.09078 (2024)](https://arxiv.org/abs/2409.09078) [stat.ML, cs.LG] (2024).  
 - Y. Saleh, A. Iske, Inducing Riesz and Orthonormal Bases in $L^2$ *via* Composition Operators, [arXiv:2406.18613 (2024)](https://arxiv.org/abs/2406.18613) [math.FA, math.NA, cs.LG] (2024).  
 - T. Wenzel, Y. Saleh, A. Iske, Two-Layered and Deep Kernels as Data-Adapted Kernels, [DEEPK 2024 International Workshop on Deep Learning and Kernel Machines](https://www.esat.kuleuven.be/stadius/E/DEEPK2024/7_two_layered_and_deep_kernels_a.pdf) (2024).  
-- Y. Saleh, A.F. Corral, A. Iske, J. Küpper, A. Yachmenev, Computing Excited States of Molecules using Normalizing Flows, [arXiv:2308.16468 (2023)](https://arxiv.org/abs/2308.16468) [cs.LG, phys.chem-phys] (2023).  
 - Y. Saleh, Spectral and Active Learning for Efficient and Computationally Scalable Quantum Molecular Dynamics, Dissertation, Universität Hamburg (2023).  
 - Y. Saleh, A. Iske, A. Yachmenev, J. Küpper, Augmenting Basis Sets by Normalizing Flows, *Proc. Appl. Math. Mech.* 23 (1), e202200239 (2023).  
 - Y. Saleh, V. Sanjay, A. Iske, A. Yachmenev, J. Küpper, Active Learning of Potential-Energy Surfaces of Weakly Bound Complexes with Regression-Tree Ensembles, [*J. Chem. Phys.* 155, 144109 (2021)](https://aip.scitation.org/doi/10.1063/5.0057051).  
