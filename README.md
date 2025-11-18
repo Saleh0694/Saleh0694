@@ -20,6 +20,7 @@ I am currently a research and teaching assistant at Universität Hamburg, depart
 
 ## Publications
 **Publications in chronological order:**  
+- E. Vogt, A. F. Corral, Y. Saleh, A. Yachmenev, Transferability and interpretability of vibrational normalizing-flow coordinates _J. Chem. Phys._ **163(15)**.
 - A. Yachmenev, E. Vogt, A. F. Corral, Y. Saleh, Taylor-mode automatic differentiation for constructing molecular rovibrational Hamiltonian operators _J. Chem. Phys._ **163(7)**.
 - Y. Saleh, A.F. Corral, A. Iske, J. Küpper, A. Yachmenev, Computing Excited States of Molecules using Normalizing Flows, _J. Chem. Theory Comput._ **(21)10**, 5221-5229.
 - V. Menden, Y. Saleh, A. Iske, Bounds on the Generalization Error in Active Learning, [arXiv:2409.09078 (2024)](https://arxiv.org/abs/2409.09078) [stat.ML, cs.LG] (2024).  
