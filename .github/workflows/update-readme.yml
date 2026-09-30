@@ -1,0 +1,39 @@
+name: Update README
+
+# Regenerates README.md from the data in Saleh0694/saleh0694.github.io
+# (_data/cv.yml and _bibliography/papers.bib). Runs daily and on demand.
+# The website repo is public, so no token or secret is needed.
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: Saleh0694/saleh0694.github.io
+          ref: main
+          path: site
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build README and banner
+        run: |
+          pip install -r site/bin/requirements.txt
+          python site/bin/build.py readme --out README.md
+          python site/bin/banner.py assets
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898273+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets
+          git diff --cached --quiet || git commit -m "Update README from website data"
+          git push
