@@ -18,7 +18,7 @@
   <a href="mailto:yahya.saleh@mathmods.eu"><img alt="Email" src="https://img.shields.io/badge/Email-555555?style=flat-square&logo=maildotru&logoColor=white"></a>
 </p>
 
-I develop mathematically grounded machine-learning methods for problems in the natural sciences. My work sits between approximation theory and scientific machine learning: I use invertible neural networks and normalizing flows to *learn* adaptive approximation spaces, prove when and why they converge, and apply them to quantum molecular physics and, more recently, image compression.
+I develop machine-learning methods for problems in the natural sciences. My work sits between approximation theory and scientific machine learning: I use invertible neural networks and normalizing flows to *learn* adaptive approximation spaces, and apply them to quantum molecular physics and, more recently, image compression.
 
 I am currently a consultant at d-fine GmbH and continue my research independently. Before that I was a postdoctoral researcher at the Department of Mathematics, Universität Hamburg, and did my PhD there and at the Center for Free-Electron Laser Science (CFEL), DESY.
 
