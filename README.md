@@ -18,9 +18,22 @@
   <a href="mailto:yahya.saleh@mathmods.eu"><img alt="Email" src="https://img.shields.io/badge/Email-555555?style=flat-square&logo=maildotru&logoColor=white"></a>
 </p>
 
-I develop machine-learning methods for problems in the natural sciences. My work sits between approximation theory and scientific machine learning: I use invertible neural networks and normalizing flows to *learn* adaptive approximation spaces, and apply them to quantum molecular physics and, more recently, image compression.
+Hey, I'm Yahya, an applied mathematician and research engineer. I have
+experience in building and analyzing machine learning models for scientific
+computing and engineering problems. 
 
-I am currently a consultant at d-fine GmbH and continue my research independently. Before that I was a postdoctoral researcher at the Department of Mathematics, Universität Hamburg, and did my PhD there and at the Center for Free-Electron Laser Science (CFEL), DESY.
+I am genuinely passionate about pushing the boundaries of what is machine
+computable. I developed a new spectral-learning framework
+for solving Schrödinger equations that describe vibrations of molecules and
+built software that eases the adoption of this framework in practical
+applications (not that the framework is widely adopted but getting there :v).
+
+In more industrial applications, I've built test automation and data-fixture
+tooling for banking systems, prototyped AI-agent integrations with the Model
+Context Protocol (MCP), and worked on cloud deployment of machine learning models.
+
+
+
 
 ### Selected publications
 
